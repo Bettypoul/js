@@ -24,5 +24,5 @@ for(row=4;row>=1;row--){
 
 ;
 
-
+console.log('test');
 
