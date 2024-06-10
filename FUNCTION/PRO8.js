@@ -20,6 +20,7 @@ const parent =()=>{
 
     }
     child()
+    
 }
 
 parent()

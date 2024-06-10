@@ -12,3 +12,16 @@ num=Math.floor(num/10)//123/10=12//12/10=1//1/10=.1
 console.log('reverse of the given number is',reverse);
 
 
+console.log('----------------');
+
+num=123
+str=''
+
+while(num>0){//123>0//12>0//1>0
+    reminder=num%10//3//2//1
+    str=str+reminder//321
+   num= Math.floor(num/10)//123/10=12//12/10=1
+}
+console.log(Number(str));
+
+

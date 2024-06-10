@@ -30,6 +30,8 @@ products.filter(pro=>pro.display=='lcd').forEach(item=>console.log(item))
 //3. print 5g mobile phone name
 console.log('---------print 5g mobile phone name');
 
+
+
 for(pro of products){
     if(pro.band=='5g'){
         console.log(pro.pName);

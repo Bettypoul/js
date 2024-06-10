@@ -104,7 +104,7 @@ for(row=1;row<=4;row++){//1<=4
     }
     console.log(str);
 }
-console.log('-------7');
+console.log('-------or');
 
 //* * * *
 //* * * 

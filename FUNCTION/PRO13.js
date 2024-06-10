@@ -1,5 +1,5 @@
 //input array=[4,5,6]
-//output array=[11,10'9]
+//output array=[11,10,9]
 
 input=[4,5,6]
 sum=0

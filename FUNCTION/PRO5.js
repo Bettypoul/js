@@ -12,3 +12,12 @@ const addd=(nu1,nu2,nu3) =>{sum=nu1+nu2+nu3
     console.log(sum);
     }
     addd(3,2,1)  
+
+
+    console.log('-----------------');
+        
+    const sum=(n,m)=>{
+        console.log(`sum of ${n} and ${m} is ${n+m}`);
+    
+    }
+    sum(10,20)

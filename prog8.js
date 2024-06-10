@@ -2,6 +2,8 @@
 age=25
 if(age>=18){console.log(`eligible to vote`);}
 else{console.log(`not eligible to vote`);}
+
+
 //check whether given number +/-
 
 number=0

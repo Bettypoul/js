@@ -28,7 +28,7 @@ console.log('-----------------------------');
 
 num=1634
  
-power=(num+'').length// (1634+string).lenth=4 ie length of 1634
+power=(num+'').length // (1634+string).lenth=4 ie length of 1634
 // console.log(power);
 temp=num
 // remainder=0

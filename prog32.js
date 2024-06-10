@@ -47,6 +47,22 @@ for(row=1;row<=4;row++){//1<=4//
         
     }
     console.log(str);
+
+
+}
+
+console.log('------------or');
+
+for(row=1;row<=4;row++){//1
+    str=''
+    for(space=row;space<=4;space++)//1<=4//2
+    {
+        str=str+' '//*
+    }
+    for(col=1;col<=row;col++){
+        str=str+'* '
+    }
+    console.log(str);
 }
 
 //HW
@@ -88,6 +104,31 @@ else{
 }
 console.log(str);
     
+}
+
+
+console.log('-----------or');
+
+for(row=1;row<=5;row++){//1<=5
+    str=''
+    for(space=5;space>=row;space--){//
+        str=str+' '
+    }
+    for(col=1;col<=row;col++){
+        str=str+'* '
+    }
+    console.log(str);
+}
+
+for(row=1;row<=4;row++){
+    str=''
+    for(space=0;space<=row;space++){
+        str=str+' '
+    }
+    for(col=row;col<=4;col++){
+        str=str+'* '
+    }
+    console.log(str);
 }
 
 

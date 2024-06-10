@@ -7,6 +7,6 @@ else if(n==0){console.log('neither positive nor negative');}
 else{console.log('it is a negative number');}
 
 
-console.log('------------');
+console.log('------------***');
 //another way
 n>0?console.log("it is a positive number"):n==0?console.log('neither positive nor negative'):console.log('it is a negative number')

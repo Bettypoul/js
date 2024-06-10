@@ -1,4 +1,4 @@
-//rest operator
+//rest operator//RETURNS ARGUMENTS AS ARRAY
 
 class A{
     methoda(...arg){

@@ -17,3 +17,4 @@ class A{
 
 const obj=new A()
 obj.methoda()
+
